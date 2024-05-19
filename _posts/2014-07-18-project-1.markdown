@@ -1,11 +1,23 @@
 ---
 layout: default
 modal-id: 1
+title: Mesa
 date: 2014-07-18
-img: cabin.png
+img: mesa.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+tags: [mesa, escritório, mobiliário, design moderno] 
+description:  Esta mesa elegante e espaçosa mede 156 cm de comprimento, 75 cm de largura e 95 cm de altura, proporcionando 
+  uma superfície de trabalho ampla e confortável. Fabricada com materiais de alta qualidade, a mesa é perfeita 
+  para escritórios, salas de estudo ou qualquer ambiente que necessite de um espaço funcional e estiloso. 
+  Com um design moderno e acabamento refinado, ela se adapta facilmente a diversos estilos de decoração, 
+  oferecendo durabilidade e estética em um único produto.
+
 ---
+| Medidas|
+| ----------- | ----------- | ----------- |
+| 156x75x95 |
+
+

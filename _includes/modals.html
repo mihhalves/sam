@@ -19,6 +19,24 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+            <!-- Início da Tabela -->
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Medidas</th>
+                  <th>Valor</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>156x75x95</td>
+                  <td>R$ 280,00</td>
+
+                </tr>
+              
+              </tbody>
+            </table>
+            <!-- Fim da Tabela -->
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
@@ -37,7 +55,7 @@
               {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
-              Close</button>
+              Fechar</button>
           </div>
         </div>
       </div>
